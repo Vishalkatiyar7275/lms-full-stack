@@ -11,7 +11,7 @@
 2. Move into the directory
 
 ```
-    cd lms-frontend-hn
+    cd lms-full-stack
 ```
 
 3. install dependencies
