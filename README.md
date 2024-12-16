@@ -1,1 +1,0 @@
-# lms-full-stack
